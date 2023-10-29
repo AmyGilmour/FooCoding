@@ -1,2 +1,0 @@
-# FooCoding
-FooCoding 
